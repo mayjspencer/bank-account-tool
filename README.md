@@ -4,10 +4,8 @@
 
 ## Object Oriented Programming
 
-### Users
-A user can have 1 to many accounts.
-
 ### Accounts
+A user can have 1 to many accounts.
 An account has a certain balance, interest rate, and fee. Additionally, to start an account, there can be a minimum deposit.
 
 ## Functions
